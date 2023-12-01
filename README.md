@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,rust,git" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,rust,git,vim" />
   <br>
 </div>
 
@@ -84,18 +84,18 @@
 
 <div align="center">
     
-🤖 **Machine Hacking:**
+### 🤖 **Machine Hacking:**
 
   Hacking boot2root machine and documenting 
 
-🔍 **Malware Analysis:**
+#### 🔍 **Malware Analysis:**
 
   Static && Dynamic
 
-🕵️ **Forensics Exploration:**
+### 🕵️ **Forensics Exploration:**
    I navigate through the bits and bytes, piecing together the evidence to uncover the story behind cyber incidents.
 
-🛡️ **Understanding New Algorithms**
+### 🛡️ **Understanding New Algorithms**
 
 </div>
 
