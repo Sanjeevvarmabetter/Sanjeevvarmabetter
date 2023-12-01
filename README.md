@@ -58,7 +58,7 @@
 
 <!-- Stats -->
 
-<h2 align="center"> ⚡ Stats ⚡ </h2>
+<!-- <h2 align="center"> ⚡ Stats ⚡ </h2>
 
 <br>
 
@@ -72,7 +72,7 @@
 
   <img width=325 align="center" src="https://github-readme-stats-Sanjeevvarmabetter.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-</div>
+</div> -->
 
 <br/><br/>
 
@@ -80,16 +80,24 @@
 
 <h3 align="center"> Things My Cyber Persona Does in Free Time </h3>
 
+<!-- <h3 align="center"> Diving into the Cybernetic Realm in My Free Time 🕵️‍♂️</h3> -->
+
 <div align="center">
     
-    Machine Hacking
+🤖 **Machine Hacking:**
 
-    Malware Analysis
+  Hacking boot2root machine and documenting 
 
-    Forensics
+🔍 **Malware Analysis:**
 
-    Testing
+  Static && Dynamic
+
+🕵️ **Forensics Exploration:**
+   I navigate through the bits and bytes, piecing together the evidence to uncover the story behind cyber incidents.
+
+🛡️ **Understanding New Algorithms**
 
 </div>
 
 <br/>
+
