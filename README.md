@@ -13,10 +13,10 @@
 ### Exploring the Blockchain Universe 🌐✨
   A passionate Blockchain Developer and Researcher 
 
-📈 **Financial Markets Enthusiast**
+📈 **Financial Markets Enthusiast:**
    Fascinated by the dynamic world of finance, I eagerly keep an eye on market trends and innovations, seeking inspiration for blockchain solutions.
 
-🌐 **Love Decentralization**
+🌐 **Love Decentralization:**
    Advocate for decentralization, where power is distributed, empowering individuals and fostering a more inclusive and resilient digital ecosystem.
 
 🔐 **Cybersecurity Guardian**
