@@ -9,18 +9,27 @@
 <!-- about me -->
 
 <div align="center">
-    
-    Blockchain Developer && Researcher
 
-    Like to hear about financial markets
-    
-    Love decentralization
-    
-    Cybersecurity enthusiast
-    
-    blueteam
+### Exploring the Blockchain Universe 🌐✨
+  A passionate Blockchain Developer and Researcher https://explorer.bitquery.io/packs/media/icon/eth-093b3f87.svg
+
+🌱 **Constant Learning:**
+   Always diving into the latest developments, unraveling the mysteries of blockchain protocols, and staying ahead of the curve.
+
+📈 **Financial Markets Enthusiast:**
+   Fascinated by the dynamic world of finance, I eagerly keep an eye on market trends and innovations, seeking inspiration for blockchain solutions.
+
+🌐 **Decentralization Advocate:**
+   Advocate for decentralization, where power is distributed, empowering individuals and fostering a more inclusive and resilient digital ecosystem.
+
+🔐 **Cybersecurity Guardian:**
+   With a keen interest in cybersecurity, I strive to fortify digital landscapes, ensuring the robustness and security of blockchain networks.
+
+🛡️ **Blue Team Player:**
+   Proudly wearing the blue team colors, I contribute to the defense, protecting against digital threats in the ever-evolving cyber battlefield.
 
 </div>
+
 
 <!-- Connect with me -->
 
