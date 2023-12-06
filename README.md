@@ -48,7 +48,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django" />
+  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,postgres />
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,rust,git,vim" />
   <br>
 </div>
