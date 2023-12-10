@@ -90,7 +90,7 @@
 
 #### 🔍 **Malware Analysis:**
 
-  Static && Dynamic
+  Static & Dynamic
 
 ### 🕵️ **Forensics Exploration:**
    I navigate through the bits and bytes, piecing together the evidence to uncover the story behind cyber incidents.
