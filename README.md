@@ -49,12 +49,15 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,postgres" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,rust,git,vim" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,js,rust,git,vim" />
   <br>
 </div>
 
+<div align=center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevvarmabetter&hide=javascript,css,scss,html&theme=tokyonight)
 
+    
+</div>
 <br/>
 <hr/>
 
