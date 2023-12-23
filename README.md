@@ -53,9 +53,11 @@
   <br>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevvarmabetter&hide=javascript,css,scss,html&theme=tokyonight)
+
 <br/>
 <hr/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevvarmabetter&hide=javascript,css,scss,html&theme=tokyonight)
+
 <!-- Stats -->
 
 <!-- <h2 align="center"> ⚡ Stats ⚡ </h2>
