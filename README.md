@@ -49,7 +49,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,postgres" alt="Skills Set 1" />
+  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,react,postgres" alt="Skills Set 1" />
   <img src="https://skillicons.dev/icons?i=nodejs,java,js,rust,git,vim" alt="Skills Set 2" />
 
   <!-- Add a horizontal line (divider) -->
