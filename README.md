@@ -48,13 +48,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,postgres" />
-  <img src="https://skillicons.dev/icons?i=nodejs,java,js,rust,git,vim" />
-  <br>
-    <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevvarmabetter&hide=javascript,css,scss,html&theme=highcontrast)
+
+  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,postgres" alt="Skills Set 1" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,js,rust,git,vim" alt="Skills Set 2" />
+
+  <!-- Add a horizontal line (divider) -->
+  <hr style="margin: 20px 0;">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevvarmabetter&hide=javascript,css,scss,html&theme=highcontrast)
 
 </div>
+
 
 
 <br/>
