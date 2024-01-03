@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+😜;+I'm+Sanjeev+Varma!;" />
 </h1>
 
-<h3 align="center"> An Enthusiastic Blockchain Developer from India 🇮🇳 </h3>
+<h3 align="center"> Blockchain Developer from India 🇮🇳 </h3>
 
 <br/>
 
