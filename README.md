@@ -49,8 +49,8 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,django,react,postgres" alt="Skills Set 1" />
-  <img src="https://skillicons.dev/icons?i=nodejs,java,js,rust,git,vim" alt="Skills Set 2" />
+  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,js,react,mongo" alt="Skills Set 1" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,git,vim" alt="Skills Set 2" />
 
   <!-- Add a horizontal line (divider) -->
   <hr style="margin: 20px 0;">
@@ -83,26 +83,4 @@
 </div> -->
 <hr/>
 
-<h3 align="center"> Things My Cyber Persona Does in Free Time </h3>
-
-<!-- <h3 align="center"> Diving into the Cybernetic Realm in My Free Time 🕵️‍♂️</h3> -->
-
-<div align="center">
-    
-### 🤖 **Machine Hacking:**
-
-  Hacking boot2root machine and documenting 
-
-#### 🔍 **Malware Analysis:**
-
-  Static & Dynamic
-
-### 🕵️ **Forensics Exploration:**
-   I navigate through the bits and bytes, piecing together the evidence to uncover the story behind cyber incidents.
-
-### 🛡️ **Understanding New Algorithms**
-
-</div>
-
-<br/>
 
