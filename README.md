@@ -5,24 +5,20 @@
 <h3 align="center"> Blockchain Developer from India 🇮🇳 </h3>
 
 <br/>
+  <table align="center"> 
+    <tr>
+          <td width="100%" align="center">
+      <a href="https://wbnns.com/">
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dbil9vw-3ca1e38e-3bf4-40a8-9339-801771202133.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGJpbDl2dy0zY2ExZTM4ZS0zYmY0LTQwYTgtOTMzOS04MDE3NzEyMDIxMzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9wajlljm5JyX5WmCSKb1XfwxnmByW0drO8Y29vlpaAI">
+      </a>
+      </td>
+      </tr>
 
+  </table>
 <!-- about me -->
 
 <div align="center">
 
-### Exploring the Blockchain Universe 🌐✨
-  A passionate Blockchain Developer and Researcher 
-
-### 📈 **Financial Market Enthusiast**
-   Fascinated by the dynamic world of finance, I eagerly keep an eye on market trends and innovations, seeking inspiration for blockchain solutions.
-
-### 🌐 **Love Decentralization**
-   Advocate for decentralization, where power is distributed, empowering individuals and fostering a more inclusive and resilient digital ecosystem.
-
-🔐 **Cybersecurity Guardian**
-  
-
-🛡️ **Blue Team Player**
 
 </div>
 
@@ -53,9 +49,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,git,vim" alt="Skills Set 2" />
 
   <!-- Add a horizontal line (divider) -->
-  <hr style="margin: 20px 0;">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevvarmabetter&hide=javascript,css,scss,html&theme=highcontrast)
 
 </div>
 
@@ -64,23 +57,6 @@
 <br/>
 
 
-<!-- Stats -->
-
-<!-- <h2 align="center"> ⚡ Stats ⚡ </h2>
-
-<br>
-
-<div align=center>
-
-  <img width=390 src="https://github-readme-streak-stats-Sanjeevvarmabetter.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
-  <img width=390 src="https://github-readme-stats-Sanjeevvarmabetter.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <br/>
-
-  <img width=325 align="center" src="https://github-readme-stats-Sanjeevvarmabetter.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-</div> -->
 <hr/>
 
 
