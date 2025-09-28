@@ -37,20 +37,7 @@
 
 <hr/>
 
-<!--languages frameworks and tools-->
 
-<h2 align="center"> Languages/Frameworks/Tools </h2>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,py,js,react,mongo" alt="Skills Set 1" />
-  <img src="https://skillicons.dev/icons?i=nodejs,java,git,vim" alt="Skills Set 2" />
-
-  <!-- Add a horizontal line (divider) -->
-
-</div>
 
 
 
